@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Flower is a friendly federated learning framework that can be combined with popular machine learning frameworks such as PyTorch or TensorFlow. Pyfhel provides FHE implementation with higher-level languages and ecosystems non-experts are already familiar with, such as Python, the de-facto standard language of data science and machine learning.
+[Flower](https://github.com/adap/flower/tree/main) is a friendly federated learning framework that can be combined with popular machine learning frameworks such as PyTorch or TensorFlow. [Pyfhel](https://github.com/ibarrond/Pyfhel) provides FHE implementation with higher-level languages and ecosystems non-experts are already familiar with, such as Python, the de-facto standard language of data science and machine learning.
 
 Here I intend to create such examples of how to apply Pyfhel to Flower. An example of HE in combination with FL is that homomorphic encryption can enable the parties to homomorphically encrypt their local model updates before sending them to the aggregator for secure aggregation. 
 
