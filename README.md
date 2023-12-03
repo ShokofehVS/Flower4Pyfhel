@@ -10,4 +10,5 @@
 
 Here I intend to create such examples of how to apply Pyfhel to Flower. An example of HE in combination with FL is that homomorphic encryption can enable the parties to homomorphically encrypt their local model updates before sending them to the aggregator for secure aggregation. 
 
-
+Some sample implementation of homomorphically federated analysis are:
+1. [Battery remaining useful life prediction](https://github.com/Audris-A/FL-for-battery-RUL-with-Flower-framework)
